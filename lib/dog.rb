@@ -7,5 +7,3 @@ def breed(name)
 end
 name = Dog.new("Mutt")
 end
-end
-end
