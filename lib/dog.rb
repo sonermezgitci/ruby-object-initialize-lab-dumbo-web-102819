@@ -6,6 +6,6 @@ def breed(name)
 @breed = breed 
 end
 def breed
-@breed = ("Mutt")
+@breed = Mutt
 end 
 end
